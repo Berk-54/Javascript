@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    transition: color 0.5s;
+    cursor: pointer; 
+    transition: color: 0.5s;
+    cursor: pointer;
+}
